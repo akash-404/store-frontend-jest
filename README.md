@@ -47,8 +47,7 @@ GRANT ALL PRIVILEGES ON DATABASE store_front_test TO akash;
 ## Testing
 
  To run included tests:
-
-1. Start the server using [npm run start].
+ 
 1. In a separate terminal run command [npm run test].
 
 ## Running Ports
